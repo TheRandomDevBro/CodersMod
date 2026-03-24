@@ -1,4 +1,4 @@
-# Security Policy
+# Security Policy - 1.1
 
 We scrictly require and warn users to follow the rules, and we scrictly make sure users are using the latest version. 
 When you sign up, you agree to the security policy. If you 
@@ -19,4 +19,4 @@ CodersMod may have:
 
 # Process of Opt-Out
 
-To opt out, please make an issue with the "Opt Out" template.
+To opt out, make a "Security Issue" Issue. Explain what you want removed.
